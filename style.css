@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.gallery {
+  font-size: 0
+}
+
+.gallery__item {
+  font-size: 16px;
+  display: inline-block;
+  width: 33.3%;
+  padding: 20px;
+}
+
+.gallery__content {
+  background: #333;
+  color: #fff;
+}

@@ -1,0 +1,12 @@
+{
+  "1" : "Ukraine",
+  "7" : "Russia",
+  "3" : "USA",
+  "5" : "Canada",
+  "6" : {
+    "3" : "Ukraine-1",
+    "2" : "Russia-2",
+    "1" : "USA-3",
+    "4" : "Canada-4"
+  }
+}
